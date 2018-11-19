@@ -1,0 +1,52 @@
+{
+  "name": "ShyCharlie",
+  "padlock": "4zJ1C4ZI8v1KazK9QkswHg==!pHoY4BNKYrKoHEWtvboIUOK3NO4oNs5vjb5ztkwICBdfvrQLrpNwlspwAjJ+DTcv",
+  "version": "2.0",
+  "services": [
+    {
+      "tenantId": "53daa4b8-5129-4aee-85ff-1b6baa1c29a4",
+      "subscriptionId": "92c13c3a-375e-4f38-b113-a02ec2de81b4",
+      "resourceGroup": "ShyCharlie",
+      "serviceName": "ShyCharlie",
+      "type": "abs",
+      "name": "ShyCharlie",
+      "id": "1"
+    },
+    {
+      "connectionString": "9n/PJAUKRR3M6DGY33ckUg==!N2jh2oblkxt/oxCyzcWMT7vpraYPN07OkHIuSjKIR7lm/PNAysIn1i7eGRg4tUUf+13n5yxISAlewIhU7OIXooITDvRZ/y1NNMCm/2Qvs5cvfmjGACwBGKtrOwLxK1vvsxTTGpPGjmzGtGV35+Mn63CMEvCY6FJ8rNQxVG3j3vt86RYj6/IC0R6xJyvQ0jILZNtmFHFrd4tlac9YakJUng==",
+      "tenantId": "53daa4b8-5129-4aee-85ff-1b6baa1c29a4",
+      "subscriptionId": "92c13c3a-375e-4f38-b113-a02ec2de81b4",
+      "resourceGroup": "ShyCharlie",
+      "serviceName": "shycharlie82d9",
+      "type": "blob",
+      "id": "2"
+    },
+    {
+      "appId": "",
+      "appPassword": "",
+      "endpoint": "https://localhost:8989/BotCaller/api/messages",
+      "type": "endpoint",
+      "name": "development",
+      "id": "3"
+    },
+    {
+      "appId": "4b42c4a3-f07d-4017-bd99-c1fb28c48609",
+      "appPassword": "ShTkLeRLdFv+9px+6any4w==!/Lz2Gv3AHrlOMnhhx1CD+cACtJdTpz/lgC24hJUT3f8=",
+      "endpoint": "https://shycharlie.azurewebsites.net/api/messages",
+      "type": "endpoint",
+      "name": "production",
+      "id": "4"
+    },
+    {
+      "instrumentationKey": "4N5m1DDhbcmkYSU7Nauy3Q==!j4PDsPQ+/onn0vcg3UMf/yd7QraxTTQXG+f5acsDPM1A8z+8y7TMR1DBgtLjcQwH",
+      "applicationId": "fedb1781-72e4-4650-9074-e8b291850dde",
+      "apiKeys": {},
+      "tenantId": "53daa4b8-5129-4aee-85ff-1b6baa1c29a4",
+      "subscriptionId": "92c13c3a-375e-4f38-b113-a02ec2de81b4",
+      "resourceGroup": "ShyCharlie",
+      "serviceName": "ShyCharlieuybrej",
+      "type": "appInsights",
+      "id": "5"
+    }
+  ]
+}

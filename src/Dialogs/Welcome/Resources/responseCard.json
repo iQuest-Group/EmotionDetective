@@ -1,0 +1,84 @@
+{
+  "type": "AdaptiveCard",
+  "body": [
+    {
+      "type": "Container",
+      "items": [
+        {
+          "type": "ColumnSet",
+          "columns": [
+            {
+              "type": "Column",
+              "items": [
+                {
+                  "type": "ImageSet",
+                  "horizontalAlignment": "Center",
+                  "images": [
+                    {
+                      "type": "Image",
+                      "horizontalAlignment": "Center",
+                      "height": "stretch",
+                      "url": "https://media.giphy.com/media/5gUnOrltPvZzW/giphy.gif",
+                      "size": "Medium"
+                    }
+                  ]
+                }
+              ],
+              "width": "auto"
+            },
+            {
+              "type": "Column",
+              "items": [
+                {
+                  "type": "TextBlock",
+                  "horizontalAlignment": "Left",
+                  "weight": "Bolder",
+                  "color": "Dark",
+                  "text": "New TextBlock",
+                  "wrap": true
+                }
+              ],
+              "width": "stretch"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Container",
+      "items": [
+        {
+          "type": "ColumnSet",
+          "columns": [
+            {
+              "type": "Column",
+              "items": [
+                {
+                  "type": "TextBlock",
+                  "weight": "Bolder",
+                  "color": "Dark",
+                  "text": "New TextBlock"
+                }
+              ],
+              "width": "stretch"
+            },
+            {
+              "type": "Column",
+              "items": [
+                {
+                  "type": "TextBlock",
+                  "weight": "Bolder",
+                  "color": "Dark",
+                  "text": "New TextBlock"
+                }
+              ],
+              "width": "stretch"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+  "version": "1.0"
+}
