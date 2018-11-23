@@ -11,53 +11,9 @@
     {
       "type": "TextBlock",
       "spacing": "medium",
-      {
-        "type": "AdaptiveCard",
-        "body": [
-          {
-            "type": "Container",
-            "items": [
-              {
-                "type": "ColumnSet",
-                "horizontalAlignment": "Left",
-                "separator": true,
-                "columns": [
-                  {
-                    "type": "Column",
-                    "items": [
-                      {
-                        "type": "Image",
-                        "url": "https://media.giphy.com/media/5gUnOrltPvZzW/giphy.gif",
-                        "size": "Stretch"
-                      }
-                    ],
-                    "width": "stretch"
-                  },
-                  {
-                    "type": "Column",
-                    "items": [
-                      {
-                        "type": "TextBlock",
-                        "spacing": "Medium",
-                        "weight": "Bolder",
-                        "color": "Dark",
-                        "text": "Yeah... I am Charlie... if you expect some cool audio sentiment analysis... you are in the wrong place! When bored just check your thoughts here... ",
-                        "wrap": true
-                      }
-                    ],
-                    "width": "stretch"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
-        "version": "1.0"
-      },
       "size": "default",
       "weight": "bolder",
-      "text": "Hi there! I am Charlie... don't be dissapointed...",
+      "text": "Hi there! I am Charlie...",
       "wrap": true,
       "maxLines": 0
     }
